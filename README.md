@@ -60,7 +60,7 @@ Vascular lesion
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by... 
+- This project was inspired by... UpGrad
 - References if any... https://www.kaggle.com/
 - This project was based on [this tutorial](https://www.tensorflow.org/tutorials/images/cnn).
 
