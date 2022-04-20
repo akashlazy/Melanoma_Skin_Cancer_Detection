@@ -12,16 +12,16 @@
 
 ## General Information
 - Provide general information about your project here.
-To identify Melanoma, Melanoma is a type of cancer that can be deadly if not detected early.
+> To identify Melanoma, Melanoma is a type of cancer that can be deadly if not detected early.
 
 - What is the background of your project?
-To identify melanoma on that basis will predict cancer diagnosis.
+> To identify melanoma on that basis will predict cancer diagnosis.
 
 - What is the business probem that your project is trying to solve?
-A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
+> A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
 
 - What is the dataset that is being used?
-The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
+> The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC). All images were sorted according to the classification taken with ISIC, and all subsets were divided into the same number of images, with the exception of melanomas and moles, whose images are slightly dominant.
 
 The data set contains the following diseases:
 
@@ -39,15 +39,15 @@ Vascular lesion
 
 ## Conclusions
 - Conclusion 1 from the analysis
-To overcome the overfitting in training process using data augmentation and adding dropout to our model.
+> To overcome the overfitting in training process using data augmentation and adding dropout to our model.
 
 - Conclusion 2 from the analysis
-Validation accuracy:- around 65 to 70%
-After using Augmentor, model get rid of overfitting.
-Class rebalance is helpful.
+> Validation accuracy:- around 65 to 70% 
+> After using Augmentor, model get rid of overfitting. 
+> Class rebalance is helpful.
 
 - Conclusion 3 from the analysis
-After increasing epochs 30 or 50 from 20 validation accuracy is drops.
+> After increasing epochs 30 or 50 from 20 validation accuracy is drops.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
